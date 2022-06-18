@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 986b7dffeabb149ef9598aeb4decc056
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kingdom: {instanceID: 0}
+  - dmgMaterial: {fileID: 2100000, guid: 3737c230894144dc596e87afef24c532, type: 2}
+  - menu: {instanceID: 0}
+  - closeMenuButton: {instanceID: 0}
+  - globalManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
